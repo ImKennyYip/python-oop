@@ -36,7 +36,7 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
 
 
 ## The 4 pillars of OOP
-* **Abstraction** - the most basic principle of a class is to provide behaviours as an interface. For instance, with a list, you can append, pop, sort, etc, but all the code is abstracted away. The code implementation and logic for how these methods work is irrelevant. We just care that it works, and we simply use the method name to call the function. A class has data members (also called fields or attributes) and member functions (also called methods).
+* **Abstraction** - the most basic principle of a class is to provide behaviours as an interface. For instance, with a list, you can append, pop, sort, etc, but all the code is abstracted away. The code implementation and logic for how these methods work is irrelevant. We just care that it works, and we simply use the method name to call the function. This is known as working with a "black box". (You know that it's a box but you can't see inside because it's black). A class has data members (also called fields or attributes) and member functions (also called methods).
 
 * **Polymorphism** - the word has greek origin - poly "many" and morph (form). Polymorphism refers to many forms.
     * Polymorphism can refer to one class, many same behaviors.

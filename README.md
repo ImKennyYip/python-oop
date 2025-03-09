@@ -12,9 +12,9 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
 
 * **Polymorphism (Dunder Methods / Operator Overloading)**
     * Complex Number Class with add, sub, mul [#4](https://youtu.be/p5-D23sK_sU)
-    * Fraction Class with add, sub, mul, truediv [#5]()
-    * Multiply int × Fraction Class with mul, rmul [#6]()
-    * Sorting Fraction Class with lt, gt, le, ge, eq, ne [#7]()
+    * Fraction Class with add, sub, mul, truediv [#5](https://youtu.be/gun6lwny3GE)
+    * Multiply int × Fraction Class with mul, rmul [#6](https://youtu.be/nYNVoM6N2so)
+    * Sorting Fraction Class with lt, gt, le, ge, eq, ne [#7](https://youtu.be/TT4SRUmrWNs)
 
 * **Abstraction**
     * Import Class Files [#8](https://youtu.be/F1SwUENsCgY)
@@ -52,7 +52,7 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
    * Data Hiding
        *  With name mangling, we can create "private" data members in Python. This is not fully private because there is actually a workaround to access the data member/method. But with the idea of data hiding, we make it less accessible to touch sensitive data.
 
-* **Inheritance** - the process of promoting code reuse by creating a new child class (also referred to as derived or sub/supra class) that inherits attributes and methods from an existing parent class (also referred to as base or super class). Multiple classes acn inherit from one base class. With inheritance, classes exist in a hierarchy.
+* **Inheritance** - the process of promoting code reuse by creating a new child class (also referred to as derived or sub/supra class) that inherits attributes and methods from an existing parent class (also referred to as base or super class). Multiple classes can inherit from one base class. With inheritance, classes exist in a hierarchy.
 
 ## Prerequisites
 * Python

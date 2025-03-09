@@ -28,10 +28,10 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
 * **Inheritance**
     * Duck Typing (Polymorphism)
     * Inheritance
+    * super( ) Function
     * Abstract Classes
     * Multiple Inheritance (Polymorphism)
     * "Deadly Diamond of Death" Problem
-    * super( ) Function
     * Inner/Nested Classes (Abstraction)
 
 

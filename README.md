@@ -47,7 +47,7 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
     * Polymorphism can also refer to one form shared by many different classes, as in the case with duck typing. Multiple classes can have a function with the same name so that they could be called together.
         * a string, list, set, dict, etc, all have the ```len``` operator supported.
 
-* **Encapsulation** - involves wrapping data members(fields, or attributes) and methods in a single unit (class) and restricting direct access using access modifiers.
+* **Encapsulation** - involves structuring data members(fields, or attributes) and methods in a single unit (class) and restricting direct access using access modifiers.
   * Delegation
       * a list allows you to use the set and get operators with ```lst[i]```, instead of letting you directly access the array data. This is important because if you tried to access and modify the data in a list directly, you would be able to do things like access a memory address outside the index range of a list. Therefore, instead of directly access the underlying array data of a list, you access elements using the provided set/get operators. This is called delegation, which means redirecting responsibility.
    * Data Hiding

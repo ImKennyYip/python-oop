@@ -16,14 +16,10 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
     * Multiply int × Fraction Class with ```mul, rmul``` [#6](https://youtu.be/nYNVoM6N2so)
     * Sorting Fraction Class with ```lt, gt, le, ge, eq, ne``` [#7](https://youtu.be/TT4SRUmrWNs)
 
-* **Abstraction**
-    * Import Class Files [#8](https://youtu.be/F1SwUENsCgY)
-      
 * **Encapsulation (Data Hiding)**
+    * Import Class Files (Abstraction) [#8](https://youtu.be/F1SwUENsCgY)
     * Name Mangling [#9](https://youtu.be/6cvFzLB6hbA)
-
-* **Abstraction**
-    * Class Variables [#10](https://youtu.be/KHizDDnhPgg)
+    * Class Variables (Abstraction) [#10](https://youtu.be/KHizDDnhPgg)
   
 * **Inheritance**
     * Duck Typing (Polymorphism) [#11](https://youtu.be/-eeElCrjdD0)
@@ -33,7 +29,11 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
     * Abstract Classes
     * Multiple Inheritance (Polymorphism)
     * "Deadly Diamond of Death" Problem
-    * Inner/Nested Classes (Abstraction)
+
+* **Encapsulation (Association)**
+    * Inner/Nested Classes
+    * Aggregation
+    * Composition
 
 
 ## The 4 pillars of OOP

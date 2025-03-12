@@ -11,10 +11,10 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
     * Vending Machine Class [#3](https://youtu.be/SyxapGNsFWk)
 
 * **Polymorphism (Dunder Methods / Operator Overloading)**
-    * Complex Number Class with add, sub, mul [#4](https://youtu.be/p5-D23sK_sU)
-    * Fraction Class with add, sub, mul, truediv [#5](https://youtu.be/gun6lwny3GE)
-    * Multiply int × Fraction Class with mul, rmul [#6](https://youtu.be/nYNVoM6N2so)
-    * Sorting Fraction Class with lt, gt, le, ge, eq, ne [#7](https://youtu.be/TT4SRUmrWNs)
+    * Complex Number Class with ```add, sub, mul``` [#4](https://youtu.be/p5-D23sK_sU)
+    * Fraction Class with ```add, sub, mul, truediv``` [#5](https://youtu.be/gun6lwny3GE)
+    * Multiply int × Fraction Class with ```mul, rmul``` [#6](https://youtu.be/nYNVoM6N2so)
+    * Sorting Fraction Class with ```lt, gt, le, ge, eq, ne``` [#7](https://youtu.be/TT4SRUmrWNs)
 
 * **Abstraction**
     * Import Class Files [#8](https://youtu.be/F1SwUENsCgY)
@@ -28,7 +28,7 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
 * **Inheritance**
     * Duck Typing (Polymorphism) [#11](https://youtu.be/-eeElCrjdD0)
     * Inheritance [#12](https://youtu.be/HZ8DmKl0IcU)
-    * super( ) Function [#13](https://youtu.be/s1Mz0TtH504)
+    * ```super( )``` Function [#13](https://youtu.be/s1Mz0TtH504)
     * Multilevel Inheritance (Polymorphism)
     * Abstract Classes
     * Multiple Inheritance (Polymorphism)

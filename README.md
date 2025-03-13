@@ -26,9 +26,9 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
     * Inheritance [#12](https://youtu.be/HZ8DmKl0IcU)
     * ```super( )``` Function [#13](https://youtu.be/s1Mz0TtH504)
     * Multilevel Inheritance (Polymorphism)
-    * Abstract Classes
     * Multiple Inheritance (Polymorphism)
     * "Deadly Diamond of Death" Problem
+    * Abstract Classes
 
 * **Encapsulation (Association)**
     * Inner/Nested Classes

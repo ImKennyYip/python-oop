@@ -19,9 +19,9 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
 * **Encapsulation (Data Hiding)**
     * Import Class Files (Abstraction) [#8](https://youtu.be/F1SwUENsCgY)
     * Name Mangling [#9](https://youtu.be/6cvFzLB6hbA)
-    * Class Variables (Abstraction) [#10](https://youtu.be/KHizDDnhPgg)
   
 * **Inheritance**
+    * Class Variables (Abstraction) [#10](https://youtu.be/KHizDDnhPgg)
     * Duck Typing (Polymorphism) [#11](https://youtu.be/-eeElCrjdD0)
     * Inheritance [#12](https://youtu.be/HZ8DmKl0IcU)
     * ```super( )``` Function [#13](https://youtu.be/s1Mz0TtH504)

@@ -28,14 +28,13 @@ Welcome to Object Oriented Programming in Python. In this tutorial series, you w
     * ```super( )``` Function [#13](https://youtu.be/s1Mz0TtH504)
     * Multilevel Inheritance (Polymorphism) [#14](https://youtu.be/W2qdWZdWnEI)
     * Multiple Inheritance (Polymorphism) [#15](https://youtu.be/vIf5WKfp9gQ)
-    * "Deadly Diamond of Death" Problem
-    * Abstract Classes
+    * "Deadly Diamond of Death" Problem & Method Resolution Order [#16](https://youtu.be/HAe6kKOkVJg)
+    * Abstract Classes [#17](https://youtu.be/AxVkBoFyXz4)
 
 * **Encapsulation (Association)**
-    * Inner/Nested Classes
-    * Aggregation
-    * Composition
-
+    * Composition [#18](https://youtu.be/b_8g3Q2tnQw)
+    * Aggregation [#19](https://youtu.be/7ufbq5svJqw)
+    * Inner/Nested Classes [#20](https://youtu.be/YV6hf8_jAgE)
 
 ## The 4 pillars of OOP
 * **Abstraction** - the most basic principle of a class is to provide behaviours as an interface. For instance, with a list, you can append, pop, sort, etc, but all the code is abstracted away. The code implementation and logic for how these methods work is irrelevant. We just care that it works, and we simply use the method name to call the function. This is known as working with a "black box". (You know that it's a box but you can't see inside because it's black). A class has data members (also called fields or attributes) and member functions (also called methods).
